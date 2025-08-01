@@ -33,7 +33,7 @@ Currently working on getting back into the groove of being creative, hopefully n
 <br><br><br>
 
 <a href="https://n2.pm" target="_blank"> {{button(img = "/buttons/notnet.png" alt="NotNet")}} </a>
-<a href="https://hl2.sh" target="_blank"> {{button(img = "/buttons/jay.png" alt="Jay")}} </a>
+<a href="https://hl2.sh" target="_blank"> {{button(img = "/buttons/cecilia.png" alt="Cecilia")}} </a>
 <a href="https://notnite.com" target="_blank"> {{button(img = "/buttons/notnite.png" alt="Notnite")}} </a>
 {{button(img = "/buttons/drpepper.gif" alt="Powered by Dr. Pepper")}}
 {{button(img = "/buttons/viewedwitheyes.gif" alt="Best viewed with eyes")}}
